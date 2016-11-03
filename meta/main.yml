@@ -11,4 +11,4 @@ galaxy_info:
   categories:
     - system
 dependencies:
-  - roderik.superlumic-osx-defaults
+  - vid.superlumic-osx-defaults
